@@ -24,3 +24,7 @@ prerequisites: requirements
 
 target: build
 
+clean:
+	rm hello
+
+
